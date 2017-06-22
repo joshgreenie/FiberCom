@@ -1,0 +1,76 @@
+
+.single {
+  .entry-content {
+    margin: 0;
+  }
+  .entry-header {
+    display: flex;
+    align-items: center;
+  }
+  article {
+    background: -moz-linear-gradient(left, rgba(230, 231, 232, 0.9) 0%, rgba(166, 165, 166, 0.9) 100%);
+    background: -webkit-linear-gradient(left, rgba(230, 231, 232, 0.9) 0%, rgba(166, 165, 166, 0.9) 100%);
+    background: linear-gradient(to right, rgba(230, 231, 232, 0.9) 0%, rgba(166, 165, 166, 0.9) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6e6e7e8', endColorstr='#e6a6a5a6',GradientType=1 );
+    padding: 10px 20px;
+    margin: 1.5em 0;
+  }
+
+  #content {
+    background-image: url('/wp-content/uploads/2017/04/posts-bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    -webkit-background-size:cover;
+    background-size:cover;
+    //background-attachment: fixed;
+  }
+
+  .featured-image {
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    padding: 40px 0;
+  }
+
+  .featured-text {
+    width: 60%;
+    display: inline-block;
+    padding: 40px 0;
+    h3 {
+      margin: 0 0 10px;
+    }
+    ul {
+      margin: 0;
+    }
+  }
+}
+
+.single-case_study.single .entry-content {
+  border-bottom: 1px solid #165176;
+  margin-bottom: 50px;
+
+  a.case-study-link {
+    display: block;
+    width: 330px;
+    text-align: center;
+    text-indent: -30px;
+    margin: 0 auto;
+    padding: 15px;
+    z-index: 99;
+    position: relative;
+    font-weight: 500;
+    text-shadow: none;
+    margin-bottom: -27px;
+    font-size: 18px;
+  }
+
+  a.case-study-link:before {
+    bottom: 16px;left: -100%;
+  }
+
+  a.case-study-link:after {
+    top: 4px;
+  }
+}
+

@@ -1,0 +1,97 @@
+footer#colophon {
+  background: #27282D;
+  color: #fff;
+}
+
+
+.footer-quarter {
+  flex-basis: 25%;
+  color: #898C9B;
+  font-size: 18px;
+  padding: 40px 20px 40px 0;
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+  h5 {
+    font-weight: 300;
+    margin: 0 0 20px;
+    font-size: 20px;
+  }
+  ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    li span {
+      display: inline;
+      float: left;
+    }
+
+  }
+  &:first-child {
+    flex-basis: 35%;
+  }
+}
+
+.social-media {
+  p {
+    display: inline-block;
+    margin: 0;
+    padding-left: 6px;
+    font-family: Montserrat, sans-serif;
+    line-height: 1.6;
+  }
+  li {
+    margin-bottom: 11px;
+  }
+}
+
+
+.footer-quarter li {
+  margin-bottom: 10px;
+}
+
+
+.sub-footer {
+  clear: both;
+  background: #000;
+  display: inline-block;
+  width: 100%;
+  img {
+    max-height: 20px;
+    position: relative;
+    top: 4px;
+    padding-left: 3px;
+  }
+  p {
+    margin: 0;
+    color: #fff;
+    padding: 5px 0;
+  }
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+}
+
+
+
+.social-media ul li a span {
+  background: rgba(253, 242, 242, 0);
+  color: #898C9B;
+}
+
+.social-media ul li a span.fa-facebook:hover {
+  color: #3B5998;
+  background: transparent;
+}
+
+.social-media ul li a span.fa-twitter:hover {
+  color: #33CCFF;
+  background: transparent;
+}
+
+.social-media ul li a span.fa-linkedin:hover {
+  color: #4875B4;
+  background: transparent;
+}

@@ -1,0 +1,100 @@
+a#view-more {
+  font-size: 40px;
+  color: #fff;
+  text-decoration: none;
+  position: relative;
+}
+
+.latest-wrapper {
+  text-align: right;
+}
+
+.blog-post-header {
+  text-align: left;
+  color: #fff;
+}
+
+
+
+.case-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  .post-looped {
+    background: -moz-linear-gradient(left, rgba(230,231,232,0.9) 0%, rgba(166,165,166,0.9) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, rgba(230,231,232,0.9) 0%,rgba(166,165,166,0.9) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, rgba(230,231,232,0.9) 0%,rgba(166,165,166,0.9) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6e6e7e8', endColorstr='#e6a6a5a6',GradientType=1 ); /* IE6-9 */
+    flex-basis: calc(50% - 18px);
+    margin-bottom: 36px;
+    text-align: center;
+    padding: 20px;
+
+    .post-dots {
+      background-image:  url(img/dot-bg.svg);
+      background-repeat: no-repeat;
+      background-position: 50% calc(100% - 30px);
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .post-thumbnail {
+      min-height: 165px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 15px;
+    }
+
+
+    .post-content {
+      padding: 0 25px;
+      position: relative;
+      /* border: 1px solid #165176; */
+      margin-bottom: 30px;
+      border-top: none;
+      padding-top: 90px;
+      margin-top: -80px;
+      align-self: baseline;
+      p {
+        font-size: 18px;
+        margin-top: 5px;
+      }
+      strong {
+        display: block;
+      }
+      h3 {
+         margin: 0;
+         a {
+           font-size: 18px;
+           color: black;
+           font-weight: bold;
+           text-decoration: none;
+         }
+       }
+      a.button {
+        padding: 12px 80px 12px 60px;
+        top: 23px;
+        margin-top: -23px;
+        &:after {
+          content: '\f054';
+          font-family: fontawesome;
+          color: #fff;
+          border-radius: 50%;
+          position: absolute;
+          right: 60px;
+          left: auto;
+          font-weight: lighter;
+          line-height: 50px;
+          transition: all .35s ease;
+          border: none !important;
+          font-size: 1.6rem;
+          -webkit-text-stroke: 3px #00a9a7;
+        }
+      }
+    }
+  }
+}
+
+

@@ -1,0 +1,62 @@
+.content-flex {
+  .gform_wrapper {
+    margin: 0;
+    .gform_heading {
+      margin: 0;
+    }
+    h3.gform_title {
+      margin: 0;
+      color: #fff;
+      font-size: 32px;
+      font-weight: 400;
+    }
+
+    .top_label {
+      li.gfield {
+        margin: 0;
+      }
+      div.ginput_container {
+      }
+    }
+    .hidden_label .gfield_label {
+      display: none;
+    }
+
+    input,
+    textarea {
+      margin-top: 0 !important;
+      border-radius: 0;
+      padding: 5px 25px !important;
+    }
+    input.gform_button {
+      background: #00A9A7;
+      box-shadow: none;
+      text-shadow: none;
+      border: none;
+      color: #fff;
+      padding: 10px 40px 10px 35px !important;
+    }
+    .gform_footer {
+      width: auto;
+      margin: 0;
+      padding: 0;
+      text-align: right;
+      position: relative;
+      font-size: 18px;
+      &:after {
+        content: '\f054';
+        font-family: fontawesome;
+        color: #fff;
+        border-radius: 50%;
+        position: absolute;
+        right: 34px;
+        font-weight: lighter;
+        line-height: 39px;
+        transition: all .35s ease;
+      }
+      &:hover:after {
+        right: 30px;
+      }
+    }
+  }
+}

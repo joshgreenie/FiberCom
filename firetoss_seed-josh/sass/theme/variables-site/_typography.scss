@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500');
+
+
+$font__main: 'Poppins',sans-serif;
+$font__code: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+$font__pre: "Courier 10 Pitch", Courier, monospace;
+$font__line-height-body: 1.5;
+$font__line-height-pre: 1.6;
+working
+h1 {
+  font-size: 80px;
+  font-size: 5rem;
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 32px;
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 24px;
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+h4 {
+  font-size: 20px;
+  font-size: 1.25rem;
+}
+p {
+  font-weight: 500;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+*:focus,
+*:active {
+  outline: none !important;
+}

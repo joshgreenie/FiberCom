@@ -1,0 +1,80 @@
+
+header#masthead {
+  width: 350px;
+  position: fixed;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.9);
+  left: calc(50% - 720px);
+  z-index: 9;
+  padding-bottom:200px;
+
+  .site-branding {
+    width: 225px;
+    float: none;
+    margin: 0 auto;
+  }
+
+  .main-navigation {
+    width: 100%;
+
+    ul#primary-menu {
+      width: calc(100% - 20px);
+      margin: 0 auto;
+
+      li {
+        float: none;
+        width: 100%;
+        border-top: 1px solid #165176;
+        padding: 3px 0;
+        &:last-child {
+          border-bottom: 1px solid #165176;
+        }
+        a {
+          padding: 5px 74px;
+          font-size: 24px;
+          font-weight: 500;
+          color: #165176;
+          margin: 0 -25px;
+          @include transition(all .35s ease);
+        }
+        &.current-menu-item a,
+        &:hover a {
+          background: #00a9a7;
+          color: #fff;
+          margin: 0 -25px;
+        }
+      }
+    }
+  }
+}
+
+div#hero-header {
+  display: inline-block;
+  width: 100%;
+  div#imageTitle {
+    background-position: center;
+    background-size: cover;
+  }
+
+  div#postTitlewrap {
+    text-align: right;
+    padding: 50px 0;
+
+    .entry-meta {
+      color: #fff;
+    }
+    
+    h1 {
+      margin: 0;
+      display: inline-block;
+      text-align: right;
+      color: #fff;
+      max-width: calc(100% - 350px);
+      line-height: 1;
+    }
+  }
+}
+
+
+
+

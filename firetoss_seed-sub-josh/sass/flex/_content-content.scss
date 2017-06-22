@@ -1,0 +1,132 @@
+
+#flex {
+  overflow-x: hidden;
+}
+
+.content-wrapper {
+  @include flexbox;
+  align-items: center;
+  position: relative;
+
+  &.image-Left {
+    flex-direction: row;
+    &.no-Image span.border-bottom:after {
+      left: -100%;
+    }
+  }
+  &.image-Right {
+    flex-direction: row-reverse;
+    &.no-Image span.border-bottom:after {
+      right: -100%;
+    }
+  }
+  &.no-Image span.border-bottom:after {
+    content: '';
+    width: 100%;
+    position: absolute;
+    height: 5px;
+    background: inherit;
+    display: block;
+  }
+
+  .content-wrap {
+    padding: 20px 60px;
+    width: 100%;
+
+    h1.content-title {
+      margin: 5px 0;
+      font-weight: 400;
+    }
+  }
+
+  .content-image {
+    position: relative;
+    min-width: 320px;
+    min-height: 300px;
+
+    img {
+      position: absolute;
+      top: 60px;
+      left: 60px;
+      right: 60px;
+      bottom: 60px;
+      margin: auto;
+    }
+  }
+
+  span.border-bottom {
+    position: absolute;
+    width: 50%;
+    height: 5px;
+    bottom: 0;
+    //&:after {
+    //  content: '';
+    //  width: 100%;
+    //  position: absolute;
+    //  height: 5px;
+    //  background: inherit;
+    //  display: block;
+    //}
+  }
+
+  span.border-dot {
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    bottom: -4px;
+    border-radius: 50%;
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
+
+}
+
+
+div.gform_wrapper {
+  h3.gform_title {
+    font-size: 2em;
+    font-weight: 500;
+    margin: 0 !important;
+  }
+  div.gform_heading {
+    margin: 0;
+  }
+
+
+  input, textarea {
+    background: #eaeaea;
+    border: none;
+    border-radius: 2px;
+    padding: 15px 0  !important;
+  }
+
+  input.button {
+    float: right;
+    background: #bc3a28;
+    box-shadow: none;
+    padding: 10px 50px !important;
+    border-radius: 10px;
+    color: #fff;
+    text-shadow: none;
+    font-size: 1.4rem !important;
+  }
+}
+
+
+
+div#flex.with-sidebar {
+  position: relative;
+
+  .container {
+    padding-right: 300px;
+  }
+  .sidebar-wrapper {
+    position: absolute;
+    right: calc(50% - 720px);
+    top: 0;
+    width: 300px;
+    height: 100%;
+    background: #28aabc;
+  }
+}

@@ -1,0 +1,1291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a034cf8-d228-41df-a4c4-1c5f26eae8a5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh (4).zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/img/defaultheader (1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/img/defaultheader.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/img/driveteks-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/img/driveteks-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/img/firetoss-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/img/firetoss-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/img/footer-watermark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/template-parts/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/img/defaultheader (1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/img/defaultheader.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/img/driveteks-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/img/driveteks-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/img/firetoss-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/img/firetoss-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/FiberCom.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/.jscsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/.jshintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/archive.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/comments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/css/featherlight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/css/meanmenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/css/normalize/font-awesome/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/css/normalize/font-awesome/font-awesome.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/css/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/css/style.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/home.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/img/FiberCommunity.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/img/dot-bg.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/inc/custom-header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/inc/customizer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/inc/extras.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/inc/jetpack.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/inc/template-tags.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/js/customizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/js/featherlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/js/firetoss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/js/jquery.meanmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/js/jquery.waypoints.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/js/navigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/js/owl.animate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/js/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/js/owl.lazyload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/js/owl.navigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/js/scrollreveal.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/js/skip-link-focus-fix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/just.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/languages/firetoss_seed.pot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/languages/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/layouts/content-sidebar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/layouts/sidebar-content.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/flex/_accordion.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/flex/_columns.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/flex/_content-content.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/flex/_flex.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/flex/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/flex/_full-width-content.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/flex/_hero.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/flex/_posts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/flex/_single-post.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/flex/_slider-content.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/elements/_elements.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/elements/_lists.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/elements/_tables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/font-awesome/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/font-awesome/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/font-awesome/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/font-awesome/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/font-awesome/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/font-awesome/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/font-awesome/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/font-awesome/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/font-awesome/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/font-awesome/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/font-awesome/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/font-awesome/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/font-awesome/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/font-awesome/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/forms/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/forms/_fields.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/forms/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/_bourbon.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/helpers/_scales.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/helpers/_timing-functions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_border-color.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_border-radius.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_border-style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_border-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_contrast-switch.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_ellipsis.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_font-face.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_font-stacks.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_hide-text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_hide-visually.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_margin.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_modular-scale.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_padding.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_position.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_prefixer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_shade.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_size.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_strip-unit.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_text-inputs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_tint.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_triangle.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/library/_word-wrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/settings/_settings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/utilities/_assign-inputs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/utilities/_bourbon-get-setting.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/utilities/_collapse-directionals.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/utilities/_directional-values.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/utilities/_font-source-declaration.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/utilities/_unpack.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/validators/_contains-falsy.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/validators/_contains.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/validators/_is-length.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/validators/_is-light.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/validators/_is-number.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/bourbon/validators/_is-size.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/jeet/_functions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/jeet/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/jeet/_jeet.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/jeeton/jeet/_settings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/layout/_content-sidebar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/layout/_sidebar-content.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/media/_captions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/media/_galleries.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/media/_media.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/modules/_accessibility.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/modules/_alignments.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/modules/_clearings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/modules/_infinite-scroll.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/site/_site.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/site/primary/_comments.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/site/primary/_posts-and-pages.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/site/secondary/_widgets.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/typography/_copy.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/typography/_headings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/typography/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/responsive/_desktop.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/responsive/_phone.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/responsive/_queries.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/responsive/_sm-desktop.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/responsive/_sm-tablet.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/responsive/_tablet.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/templates/_blog.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/templates/_templates.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/theme/mixins/_mixins-master.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/theme/navigation/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/theme/navigation/_header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/theme/navigation/_links.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/theme/navigation/_menus.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/theme/navigation/_navigation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/theme/navigation/_social.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/theme/variables-site/_breakpoints.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/theme/variables-site/_colors.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/theme/variables-site/_structure.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/theme/variables-site/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sass/theme/variables-site/_variables-site.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/sidebar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/single.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/style.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/template-parts/content-flex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/template-parts/content-none.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/template-parts/content-page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/template-parts/content-search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/template-parts/content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/template-parts/flexible/content-accordion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/template-parts/flexible/content-columns.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/template-parts/flexible/content-content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/template-parts/flexible/content-full-width.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/template-parts/flexible/content-hero-header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/template-parts/flexible/content-hero-slider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/template-parts/flexible/content-posts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/template-parts/flexible/content-slider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-josh/template-parts/hero-header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/.jscsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/.jshintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/acf-export-2017-04-17.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/archive.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/comments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/css/featherlight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/css/flex/_hero-header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/css/meanmenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/css/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/css/style.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/home.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/inc/custom-header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/inc/customizer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/inc/extras.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/inc/jetpack.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/inc/template-tags.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/js/customizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/js/featherlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/js/firetoss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/js/jquery.meanmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/js/jquery.waypoints.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/js/navigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/js/owl.animate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/js/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/js/owl.lazyload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/js/owl.navigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/js/scrollreveal.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/js/skip-link-focus-fix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/just.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/languages/firetoss_seed.pot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/languages/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/layouts/content-sidebar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/layouts/sidebar-content.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/page-sidebar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/prepros-6.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/flex/_columns.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/flex/_content-content.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/flex/_flex.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/flex/_full-width-content.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/flex/_hero-header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/flex/_slider-content.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/flex/_slider-hero.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/elements/_elements.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/elements/_lists.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/elements/_tables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/font-awesome/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/font-awesome/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/font-awesome/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/font-awesome/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/font-awesome/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/font-awesome/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/font-awesome/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/font-awesome/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/font-awesome/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/font-awesome/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/font-awesome/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/font-awesome/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/font-awesome/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/font-awesome/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/forms/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/forms/_fields.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/forms/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/_bourbon.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/helpers/_scales.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/helpers/_timing-functions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_border-color.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_border-radius.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_border-style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_border-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_contrast-switch.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_ellipsis.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_font-face.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_font-stacks.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_hide-text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_hide-visually.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_margin.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_modular-scale.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_padding.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_position.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_prefixer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_shade.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_size.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_strip-unit.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_text-inputs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_tint.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_triangle.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/library/_word-wrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/settings/_settings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/utilities/_assign-inputs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/utilities/_bourbon-get-setting.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/utilities/_collapse-directionals.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/utilities/_directional-values.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/utilities/_font-source-declaration.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/utilities/_unpack.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/validators/_contains-falsy.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/validators/_contains.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/validators/_is-length.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/validators/_is-light.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/validators/_is-number.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/bourbon/validators/_is-size.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/jeet/_functions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/jeet/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/jeet/_jeet.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/jeeton/jeet/_settings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/layout/_content-sidebar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/layout/_sidebar-content.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/media/_captions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/media/_galleries.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/media/_media.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/modules/_accessibility.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/modules/_alignments.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/modules/_clearings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/modules/_infinite-scroll.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/site/_site.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/site/primary/_comments.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/site/primary/_posts-and-pages.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/site/secondary/_widgets.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/typography/_copy.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/typography/_headings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/normalize/typography/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/responsive/_desktop.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/responsive/_phone.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/responsive/_queries.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/responsive/_sm-desktop.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/responsive/_sm-tablet.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/responsive/_tablet.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/templates/_blog.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/templates/_templates.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/mixins/_mixins-master.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/navigation/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/navigation/_header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/navigation/_links.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/navigation/_menus.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/navigation/_navigation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/navigation/_social.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/variables-site/_breakpoints.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/variables-site/_colors.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/variables-site/_structure.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/variables-site/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/variables-site/_variables-site.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/sidebar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/single.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/style.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/content-flex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/content-none.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/content-page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/content-search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/flexible/content-columns.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/flexible/content-content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/flexible/content-full-width.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/flexible/content-hero-header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/flexible/content-hero-slider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/flexible/content-posts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/flexible/content-slider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/hero-header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prepros-6.config" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82131">
+              <caret line="3911" column="14" lean-forward="false" selection-start-line="3911" selection-start-column="14" selection-end-line="3911" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="28" column="10" lean-forward="false" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-sidebar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/page-sidebar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <element signature="e#6#387#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sidebar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/sidebar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="777">
+              <caret line="45" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comments.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/comments.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1974">
+              <caret line="102" column="14" lean-forward="true" selection-start-line="102" selection-start-column="14" selection-end-line="102" selection-end-column="14" />
+              <folding>
+                <marker date="1497975221530" expanded="true" signature="2225:2660" ph="..." />
+                <marker date="1497975221530" expanded="true" signature="2307:2600" ph="..." />
+                <marker date="1497975221530" expanded="true" signature="2394:2462" ph="..." />
+                <marker date="1497975221530" expanded="true" signature="2739:3174" ph="..." />
+                <marker date="1497975221530" expanded="true" signature="2821:3114" ph="..." />
+                <marker date="1497975221530" expanded="true" signature="2908:2976" ph="..." />
+                <marker date="1497975221530" expanded="true" signature="3252:3684" ph="..." />
+                <marker date="1497975221530" expanded="true" signature="3333:3624" ph="..." />
+                <marker date="1497975221530" expanded="true" signature="3419:3487" ph="..." />
+                <marker date="1497975221530" expanded="true" signature="3764:4202" ph="..." />
+                <marker date="1497975221530" expanded="true" signature="3847:4142" ph="..." />
+                <marker date="1497975221530" expanded="true" signature="3935:4003" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content-content.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/flexible/content-content.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="46" column="31" lean-forward="false" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_content-content.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/sass/flex/_content-content.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="117" column="23" lean-forward="true" selection-start-line="117" selection-start-column="23" selection-end-line="117" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content-posts.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/template-parts/flexible/content-posts.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1344">
+              <caret line="83" column="30" lean-forward="true" selection-start-line="83" selection-start-column="30" selection-end-line="83" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hero_content</find>
+      <find>content_</find>
+      <find>background_settings_</find>
+      <find>Posted on</find>
+      <find>_3</find>
+      <find>background_settings</find>
+      <find>Important</find>
+      <find>prima</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>content</replace>
+      <replace>background_settings_</replace>
+      <replace>content_</replace>
+      <replace>posts_content_</replace>
+      <replace>hero_content_</replace>
+      <replace>_2</replace>
+      <replace>settings</replace>
+      <replace>important</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Josh\Dropbox (Firetoss)\Web\Fiber Community\Dev</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/functions.php" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/sass/theme/navigation/_footer.scss" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/template-parts/flexible/content-hero-header.php" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/header.php" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/inc/template-tags.php" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/sass/theme/navigation/_header.scss" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/template-parts/hero-header.php" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/sass/flex/_posts.scss" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/single.php" />
+        <option value="&lt;57a47eec-14c5-4394-9c75-9d78e2b56cd7&gt;/public_html/uintah.devft.com/wp-content/themes/firetoss_seed-josh/template-parts/flexible/content-hero-slider.php" />
+        <option value="&lt;57a47eec-14c5-4394-9c75-9d78e2b56cd7&gt;/public_html/uintah.devft.com/wp-content/themes/firetoss_seed-josh/template-parts/content-flex.php" />
+        <option value="&lt;57a47eec-14c5-4394-9c75-9d78e2b56cd7&gt;/public_html/uintah.devft.com/wp-config.php" />
+        <option value="&lt;57a47eec-14c5-4394-9c75-9d78e2b56cd7&gt;/public_html/uintah.devft.com/wp-content/themes/firetoss_seed-josh/template-parts/flexible/content-header-slider.php" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/sass/responsive/_queries.scss" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/template-parts/content.php" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/template-parts/content-flex.php" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/footer.php" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/js/firetoss.js" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/sass/flex/_flex.scss" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/sass/flex/_single-post.scss" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/template-parts/flexible/content-accordion.php" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/sass/flex/_accordion.scss" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/elements/_elements.scss" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/sass/theme/variables-site/_typography.scss" />
+        <option value="&lt;57a47eec-14c5-4394-9c75-9d78e2b56cd7&gt;/public_html/fibercom.devft.com/wp-config.php" />
+        <option value="&lt;57a47eec-14c5-4394-9c75-9d78e2b56cd7&gt;/public_html/fibercom.devft.com/.htaccess" />
+        <option value="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/style.scss" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/css/style.css" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/sass/theme/navigation/_social.scss" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/style.css" />
+        <option value="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/navigation/_social.scss" />
+        <option value="&lt;57a47eec-14c5-4394-9c75-9d78e2b56cd7&gt;/public_html/fibercom.devft.com/wp-content/themes/firetoss_seed-sub-josh/style.css" />
+        <option value="$PROJECT_DIR$/firetoss_seed-sub-josh/header.php" />
+        <option value="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/navigation/_header.scss" />
+        <option value="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/variables-site/_typography.scss" />
+        <option value="$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/hero-header.php" />
+        <option value="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/navigation/_menus.scss" />
+        <option value="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/flex/hero-header.scss" />
+        <option value="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/flex/_flex.scss" />
+        <option value="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/flex/_hero-header.scss" />
+        <option value="$PROJECT_DIR$/firetoss_seed-sub-josh/functions.php" />
+        <option value="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/navigation/_footer.scss" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/sass/flex/_content-content.scss" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/template-parts/flexible/content-content.php" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/template-parts/flexible/content-columns.php" />
+        <option value="$PROJECT_DIR$/firetoss_seed-josh/template-parts/flexible/content-posts.php" />
+        <option value="$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/flexible/content-content.php" />
+        <option value="$PROJECT_DIR$/firetoss_seed-sub-josh/style.css" />
+        <option value="$PROJECT_DIR$/firetoss_seed-sub-josh/footer.php" />
+        <option value="$PROJECT_DIR$/firetoss_seed-sub-josh/page-sidebar.php" />
+        <option value="$PROJECT_DIR$/firetoss_seed-sub-josh/sass/flex/_content-content.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1904" />
+    <option name="width" value="1440" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FiberCom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FiberCom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="firetoss_seed-sub-josh" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FiberCom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="firetoss_seed-sub-josh" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template-parts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FiberCom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="firetoss_seed-sub-josh" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template-parts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flexible" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FiberCom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="firetoss_seed-sub-josh" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FiberCom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="firetoss_seed-sub-josh" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flex" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Josh\Dropbox (Firetoss)\Web\Fiber Community\Dev\firetoss_seed-sub-josh" />
+      <recent name="C:\Users\Josh\Dropbox (Firetoss)\Web\Fiber Community\Dev" />
+      <recent name="C:\Users\Josh\Dropbox (Firetoss)\Web\Fiber Community\Dev\firetoss_seed-josh\template-parts\flexible" />
+      <recent name="C:\Users\Josh\Dropbox (Firetoss)\Web\Fiber Community\Dev\firetoss_seed-josh\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Josh\Dropbox (Firetoss)\Web\Fiber Community\Dev\firetoss_seed-sub-josh\img" />
+      <recent name="C:\Users\Josh\Dropbox (Firetoss)\Web\Fiber Community\Dev\firetoss_seed-josh\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a034cf8-d228-41df-a4c4-1c5f26eae8a5" name="Default" comment="" />
+      <created>1492452015197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492452015197</updated>
+      <workItem from="1492452016656" duration="13532000" />
+      <workItem from="1492490796130" duration="9252000" />
+      <workItem from="1492531810143" duration="354000" />
+      <workItem from="1492617651679" duration="287000" />
+      <workItem from="1492626059674" duration="9050000" />
+      <workItem from="1492664802216" duration="188000" />
+      <workItem from="1492704790306" duration="1670000" />
+      <workItem from="1492791218628" duration="600000" />
+      <workItem from="1493049780051" duration="628000" />
+      <workItem from="1493065746124" duration="5715000" />
+      <workItem from="1493103741915" duration="3533000" />
+      <workItem from="1493133107807" duration="1765000" />
+      <workItem from="1493219590191" duration="465000" />
+      <workItem from="1493744671311" duration="3198000" />
+      <workItem from="1493787166284" duration="7248000" />
+      <workItem from="1493824990752" duration="2477000" />
+      <workItem from="1496860536515" duration="17000" />
+      <workItem from="1496862155625" duration="506000" />
+      <workItem from="1497887015168" duration="3562000" />
+      <workItem from="1497972733537" duration="2521000" />
+      <workItem from="1498145057224" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="66677000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1904" y="0" width="1440" height="1047" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18354431" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2057971" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09090909" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="22" column="46" lean-forward="false" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/inc/extras.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="33" column="7" lean-forward="false" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/sass/responsive/_queries.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/template-parts/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="56" column="68" lean-forward="false" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="46" column="70" lean-forward="false" selection-start-line="46" selection-start-column="70" selection-end-line="46" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/js/firetoss.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/sass/flex/_single-post.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="69" column="3" lean-forward="false" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/template-parts/flexible/content-accordion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="52" column="50" lean-forward="false" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/sass/flex/_accordion.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/typography/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/typography/_headings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/typography/_copy.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-283">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/sass/normalize/elements/_elements.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/sass/theme/variables-site/_variables-site.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/sass/theme/variables-site/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="2994" column="16" lean-forward="false" selection-start-line="2994" selection-start-column="16" selection-end-line="2994" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/sass/theme/navigation/_social.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="3019" column="16" lean-forward="false" selection-start-line="3019" selection-start-column="16" selection-end-line="3019" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/navigation/_social.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/navigation/_links.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/navigation/_navigation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/variables-site/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/hero-header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/navigation/_menus.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="94" column="16" lean-forward="false" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/sass/flex/_flex.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="70" column="13" lean-forward="true" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/navigation/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/sass/flex/_hero-header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/sass/theme/mixins/_mixins-master.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="48" column="8" lean-forward="false" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/sass/theme/navigation/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/sass/flex/_flex.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1722">
+          <caret line="82" column="3" lean-forward="false" selection-start-line="82" selection-start-column="3" selection-end-line="82" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/sass/flex/_content-content.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/template-parts/flexible/content-content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="53" column="49" lean-forward="false" selection-start-line="53" selection-start-column="49" selection-end-line="54" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/template-parts/flexible/content-slider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/template-parts/content-flex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/template-parts/flexible/content-columns.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="40" column="18" lean-forward="true" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-josh/template-parts/flexible/content-posts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="83" column="30" lean-forward="true" selection-start-line="83" selection-start-column="30" selection-end-line="83" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82131">
+          <caret line="3911" column="14" lean-forward="false" selection-start-line="3911" selection-start-column="14" selection-end-line="3911" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="28" column="10" lean-forward="false" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="45" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1974">
+          <caret line="102" column="14" lean-forward="true" selection-start-line="102" selection-start-column="14" selection-end-line="102" selection-end-column="14" />
+          <folding>
+            <marker date="1497975221530" expanded="true" signature="2225:2660" ph="..." />
+            <marker date="1497975221530" expanded="true" signature="2307:2600" ph="..." />
+            <marker date="1497975221530" expanded="true" signature="2394:2462" ph="..." />
+            <marker date="1497975221530" expanded="true" signature="2739:3174" ph="..." />
+            <marker date="1497975221530" expanded="true" signature="2821:3114" ph="..." />
+            <marker date="1497975221530" expanded="true" signature="2908:2976" ph="..." />
+            <marker date="1497975221530" expanded="true" signature="3252:3684" ph="..." />
+            <marker date="1497975221530" expanded="true" signature="3333:3624" ph="..." />
+            <marker date="1497975221530" expanded="true" signature="3419:3487" ph="..." />
+            <marker date="1497975221530" expanded="true" signature="3764:4202" ph="..." />
+            <marker date="1497975221530" expanded="true" signature="3847:4142" ph="..." />
+            <marker date="1497975221530" expanded="true" signature="3935:4003" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/template-parts/flexible/content-content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="46" column="31" lean-forward="false" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/page-sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#387#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firetoss_seed-sub-josh/sass/flex/_content-content.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="117" column="23" lean-forward="true" selection-start-line="117" selection-start-column="23" selection-end-line="117" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

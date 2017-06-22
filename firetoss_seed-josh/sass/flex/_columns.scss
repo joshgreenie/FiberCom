@@ -1,0 +1,58 @@
+.column-wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  .column {
+    display: flex;
+    flex-wrap: wrap;
+
+    h2,
+    h3 {
+      margin: 0;
+    }
+    p {
+      align-self: flex-start;
+      margin: 0;
+      flex-grow: 1;
+      flex-basis: 100%;
+      min-height: calc(100% - 90px);
+    }
+  }
+}
+
+.count-two .column {
+  flex-basis: calc(100% / 2 - 30px);
+}
+.count-three .column {
+  flex-basis: calc(100% / 3 - 20px);
+}
+.count-four .column {
+  flex-basis: calc(100% / 4 - 10px);
+  margin-bottom: 15px;
+}
+@media (max-width: $breakpoint-tablet) {
+  .count-four .column {
+    flex-basis: calc(100% / 2 - 10px);
+  }
+}
+@media (max-width: $breakpoint-small-tablet) {
+  .count-four .column,
+  .count-three .column,
+  .count-two .column {
+    flex-basis: 100%;
+  }
+  .count-four .column:nth-child(2n+1):nth-last-child(-n+2),
+  .count-four .column:nth-child(2n+1):nth-last-child(-n+2) ~ .column {
+    margin-bottom: 15px;
+  }
+  .count-four .column:last-child {
+    margin-bottom: 0 !important;
+  }
+  .count-three .column,
+  .count-two .column {
+    margin-bottom: 15px;
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}

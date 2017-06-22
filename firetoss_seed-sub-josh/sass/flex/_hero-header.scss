@@ -1,0 +1,30 @@
+
+
+div#imageTitle {
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  z-index: -1;
+
+  &:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(255, 255, 255, 0.33);
+    z-index: -1;
+  }
+
+  div#postTitlewrap h2 {
+    text-align: center;
+    padding: 7.5% 0;
+    font-size: 3.125em;
+    color: #3a3a3a;
+    margin: 0;
+    font-weight: 400;
+  }
+
+}
+
