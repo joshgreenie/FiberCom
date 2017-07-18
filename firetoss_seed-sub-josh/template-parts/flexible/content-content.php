@@ -31,7 +31,7 @@ $text_color = get_sub_field('text_color');
 $text_style = "style='color:$text_color;'";
 ?>
 
-
+<div class="content-fix">
 <div class="content-flex" style="<?= $background_color ? "$bg_style" : ""; ?><?= $text_color ? "$text_style" : ""; ?>">
     <div class="container">
         <div class="content-wrapper image-<?=$content_image_position;?> <?php if (!$content_image): echo ' no-Image '; endif; ?>">
@@ -53,4 +53,4 @@ $text_style = "style='color:$text_color;'";
         </div>
     </div>
 </div>
-
+</div>

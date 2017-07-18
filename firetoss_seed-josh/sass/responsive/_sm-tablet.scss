@@ -1,0 +1,53 @@
+.case-wrapper .post-looped .post-thumbnail {
+  min-height: 95px;
+}
+
+.case-wrapper .post-looped .post-content p {
+  margin-bottom: 5px;
+}
+
+.case-wrapper .post-looped .post-content {
+  padding: 0 5px;
+  padding-top: 80px;
+  margin-top: -80px;
+}
+
+.hero-header .description {
+  padding-top: 10%;
+}
+
+.case-wrapper .post-looped {
+  flex-basis: 100%;
+}
+
+footer#colophon ul#footer-menu > li {
+  padding: 0 10px;
+}
+
+.gform_wrapper .gform_footer input.button, .gform_wrapper .gform_footer input[type=submit], .gform_wrapper .gform_page_footer input.button, .gform_wrapper .gform_page_footer input[type=submit] {
+  width: calc(100% - 16px) !important;
+  margin-right: 0 !important;
+  float: left;
+  line-height: 1 !important;
+}
+
+.content-flex .gform_wrapper .gform_footer:after {
+  line-height: 40px;
+  bottom:  initial;
+}
+
+.accordion-content p {
+  font-size: 1rem;
+}
+
+.single .entry-header {
+  flex-direction: column;
+}
+
+.single .featured-text {
+  width: 100%;
+}
+
+.single .featured-image {
+  width: 100%;
+}

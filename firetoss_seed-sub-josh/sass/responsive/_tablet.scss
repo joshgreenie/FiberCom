@@ -1,0 +1,29 @@
+div#flex.with-sidebar .sidebar-wrapper {
+  right: calc(50% - 374px);
+}
+
+.footer-quarter {
+  flex-basis: 100%;
+  float: none;
+  width: 100%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.flex-4 {
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.social-media {
+  margin: 0 auto;
+}
+
+.footer-quarter h5 {
+  margin-bottom: 0px;
+}

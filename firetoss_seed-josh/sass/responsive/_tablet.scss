@@ -1,0 +1,27 @@
+header#masthead {
+  display: none;
+}
+
+div#content .container {
+  padding-left: 0;
+}
+
+.case-wrapper .post-looped {
+  flex-basis: 70%;
+}
+
+footer#colophon .site-branding {
+  margin: 0;
+}
+
+footer#colophon .upper-wrap {
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.mean-container .mean-bar {
+  background: none !important;
+  width: 99.9% !important;
+  position: absolute !important;
+}

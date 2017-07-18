@@ -29,14 +29,33 @@ get_header(); ?>
 			get_template_part( 'template-parts/content', 'flex' );
 
 		endwhile; // End of the loop.
-		?>
-            <div class="sidebar-wrapper">
+
+        $main_color = get_field('main_color', 'option'); ?>
+        <?php
+        $pagelist = get_pages('sort_column=menu_order&sort_order=asc');
+        $pages = array();
+        foreach ($pagelist as $page) {
+            $pages[] += $page->ID;
+        }
+        $current = array_search(get_the_ID(), $pages);
+        $prevID = $pages[$current-1];
+        $nextID = $pages[$current+1];
+        ?>
+        <div class="container">
+        <div class="navigation page-navigation">
+            <?php if (!empty($prevID)) { ?>
+                <p class="nav-prev"><a href="<?php echo get_permalink($prevID); ?>" title="<?php echo get_the_title($prevID); ?>" class="nav-prev">Previous Page</a></p>
+            <?php }
+            if (!empty($nextID)) { ?>
+            <p class="nav-next"><a href="<?php echo get_permalink($nextID); ?>" title="<?php echo get_the_title($nextID); ?>" class="nav-next">Next Page</a></p>
+        </div>
+        </div>
+    <?php } ?>
+            <div class="sidebar-wrapper" style="background: <?=$main_color?>;">
                 <?php get_sidebar(); ?>
             </div>
 <!--        </div>-->
 	</div>
-
-
 <?php
 //get_sidebar();
 get_footer();

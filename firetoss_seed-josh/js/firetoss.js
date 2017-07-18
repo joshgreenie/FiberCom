@@ -14,14 +14,23 @@
 ////////////////////////////////////////
         $('header nav').meanmenu();
 
+        //
+        // var icons = {
+        //     header: "fa fa-plus",
+        //     activeHeader: "fa fa-minus"
+        // };
+        // $( "#accordion" ).accordion({
+        //     icons: icons,
+        //     heightStyle: "content",
+        //     collapsible: true,
+        //     active: false,
+        // });
 
-        var icons = {
-            header: "fa fa-plus",
-            activeHeader: "fa fa-minus"
-        };
-        $( "#accordion" ).accordion({
-            icons: icons
-        });
+            $('#accordion > h3').click(function() {
+                $(this).next().toggle('slow');
+                return false;
+            }).next().hide();
+
 
 ////////////////////////////////////////
 //        Owl Carousel                //

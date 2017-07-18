@@ -37,5 +37,5 @@ if( have_rows('flexible_fields') ):
         endif;
     endwhile;
 else :
-    the_content();
+//    the_content();
 endif;

@@ -52,6 +52,14 @@ Dont show over 980px - Menu Styles here
 }
 
 
+//Overriding G Forms Styles
+@media screen and (max-width: 641px) {
+  .gform_wrapper .gform_footer input.button, .gform_wrapper .gform_footer input[type=submit], .gform_wrapper .gform_page_footer input.button, .gform_wrapper .gform_page_footer input[type=submit] {
+    width: 100% !important;
+  }
+}
+
+
 @media (max-width: $breakpoint-phone) {
   .container {
     max-width:280px;
@@ -59,5 +67,7 @@ Dont show over 980px - Menu Styles here
 
   @import "phone";
 }
+
+
 
 

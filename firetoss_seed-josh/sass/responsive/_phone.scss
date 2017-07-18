@@ -1,0 +1,37 @@
+.case-wrapper .post-looped .post-content p {
+  font-size: 1rem;
+}
+
+.case-wrapper .post-looped .post-thumbnail {
+  padding-bottom: 10px;
+}
+
+.case-wrapper .post-looped {
+  padding: 10px;
+}
+
+.case-wrapper .post-looped .post-content a.button {
+  padding: 10px 40px 10px 20px;
+}
+
+.case-wrapper .post-looped .post-content a.button:after {
+  right: 25px;
+}
+
+.case-wrapper .post-looped .post-dots {
+  background: none;
+}
+
+ul#footer-menu {
+  display: flex !important;
+  flex-direction: column !important;
+  flex-wrap: wrap;
+}
+
+footer#colophon ul#footer-menu > li {
+  padding: 15px 0;
+}
+
+.content-flex.section p {
+  font-size: 1rem;
+}
